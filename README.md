@@ -5,6 +5,7 @@
 <p>Proxmox is an open-source virtualization platform that enables users to create, manage, and deploy virtual machines and containers. It is designed to be easy to use and offers a wide range of features, including live migration, snapshotting, and high availability.<p>
 
 <h1>Using Terraform with Proxmox<h1>
+
 <p>To use Terraform with Proxmox, you will need to install Terraform on your local machine and create a Proxmox provider for Terraform. The Proxmox provider allows Terraform to manage resources on a Proxmox server.<p>
 
 
